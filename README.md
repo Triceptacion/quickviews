@@ -6,7 +6,7 @@ Add-on para Blender 2.79
 
 <img width="1253" height="795" alt="03" src="https://github.com/user-attachments/assets/e439b49d-0e92-4f1e-b112-ffedab749dba" />
 
-https://youtu.be/BaEEPrjVgSQ
+
 
 ### Cómo instalar el add-on quickviews en Blender 2.79
 
