@@ -1,6 +1,13 @@
 # quickviews
 Add-on para Blender 2.79
 
+<img width="225" height="392" alt="01" src="https://github.com/user-attachments/assets/54d20c52-9029-41a7-8481-e31924452a99" />
+
+
+<img width="1253" height="795" alt="03" src="https://github.com/user-attachments/assets/e439b49d-0e92-4f1e-b112-ffedab749dba" />
+
+
+
 ### Cómo instalar el add-on quickviews en Blender 2.79
 
 1. Abre Blender 2.79.
